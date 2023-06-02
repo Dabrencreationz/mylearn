@@ -12,4 +12,4 @@ def index():
 
 @app.route('/courses')
 def courses():
-    return "Browse available courses here.'
+    return "Browse available courses here."
