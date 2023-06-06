@@ -12,4 +12,12 @@ def index():
 
 @app.route('/courses')
 def courses():
-    return "Browse available courses here.'
+    return "Browse available courses here."
+
+@app.route('/')
+def about():
+    return "What mylearn app is all about with brief description of it uses, how to use for better understanding of the app"
+
+@app.route('/')
+def appointments()
+    return "bookings"
