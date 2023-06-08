@@ -13,13 +13,13 @@ Discussion Forum: Users can participate in course-specific discussion forums to 
 Certificates: Upon successful completion of a course, users receive a downloadable certificate of achievement.
 
 # Technologies Used
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js, MongoDB
-Authentication: JSON Web Tokens (JWT)
-Additional Libraries/Tools: Redux, Axios, Mongoose, etc.
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Python, MYSQLDB
+- Authentication: JSON Web Tokens (JWT)
+- Others: bootsrap
 
 # Installation
-Clone the repository: git clone https://github.com/your-username/mylearn.git
+Clone the repository: git clone https://github.com/dabrencreationz/mylearn.git
 Navigate to the project directory: cd mylearn
 Install the dependencies: npm install
 Set up environment variables:
@@ -29,7 +29,7 @@ Start the development server: npm start
 Make sure you have Node.js and MongoDB installed on your system.
 
 # Usage
-Access the application by visiting http://localhost:3000 in your browser.
+Access the application by visiting http://localhost:5000 in your browser.
 Create a new account or log in with your existing credentials.
 Explore the course catalog, enroll in courses, and start your learning journey.
 Engage in discussions, complete assignments, and track your progress.
@@ -59,8 +59,8 @@ The following teammates from Cohort 9:
 Contact
 For any inquiries or feedback regarding MyLearn, feel free to reach out to us:
 
-Almadny Nafiu: GitHub, LinkedIn
-Ani Michael: GitHub, LinkedIn
-Brenda Okonofua: Dabrencreationz@github.com, https://www.linkedin.com/in/brenda-okonofua-6371a826
+- Almadny Nafiu: GitHub, LinkedIn
+- Ani Michael: GitHub, LinkedIn
+- Brenda Okonofua: Dabrencreationz@github.com, https://www.linkedin.com/in/brenda-okonofua-6371a826
 
 We appreciate your interest and support!
