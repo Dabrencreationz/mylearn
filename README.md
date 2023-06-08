@@ -38,10 +38,10 @@ Contributing
 We welcome contributions to MyLearn! If you'd like to contribute, please follow these steps:
 
 # Fork the repository.
-Create a new branch: git checkout -b my-new-branch.
-Make your changes and commit them: git commit -m 'Add some feature'.
-Push the changes to your forked repository: git push origin my-new-branch.
-Submit a pull request detailing your changes.
+- Create a new branch: git checkout -b my-new-branch.
+- Make your changes and commit them: git commit -m 'Add some feature'.
+- Push the changes to your forked repository: git push origin my-new-branch.
+- Submit a pull request detailing your changes.
 Please ensure that your code follows the project's coding style and conventions.
 
 # License
