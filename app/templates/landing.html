@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block content %}
+  <div class="landing-page">
+    <h2>Welcome to MyLearn App</h2>
+    <p>Please log in to continue.</p>
+    <a href="{{ url_for('login') }}" class="btn btn-primary">Login</a>
+  </div>
+{% endblock %}

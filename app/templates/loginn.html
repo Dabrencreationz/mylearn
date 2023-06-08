@@ -1,0 +1,23 @@
+{% extends "bootstrap/base.html" %}
+
+{% block title %}Login{% endblock %}
+
+{% block content %}
+  <div class="container">
+    <h2>Login</h2>
+    {% if error_message %}
+    <p class="error">{{ error_message }}</p>
+    {% endif %}
+    <form method="POST" action="{{ url_for('login') }}">
+      <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" class="form-control-sm" style="width: 180px;" placeholder="Enter username" id="username" name="username" required>
+      </div>
+      <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" class="form-control-sm" style="width: 180px;" placeholder="Enter Password" id="password" name="password" required>
+      </div>
+      <button type="submit" class="btn btn-primary" style="margin-left: 100px;">Login</button>
+    </form>
+  </div>
+{% endblock %}

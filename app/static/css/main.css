@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.navbar-nav {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  padding: 5px;
+}
+
+.nav-link:hover {
+  background-color: #ccc;
+}
+
+.app-image {
+  width: 300px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
