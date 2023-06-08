@@ -1,16 +1,16 @@
 # MyLearn App
 
-MyLearn is a group portfolio project developed by Almadny Nafiu (full stack developer), Ani Michael (frontend developer), and Brenda Okonofua (backend developer). The project aims to showcase our skills and expertise in web development by creating an interactive and user-friendly learning platform.
+MyLearn is a group portfolio project developed by Almadny Nafiu (full stack developer), Ani Michael (frontend developer), and Brenda Okonofua (backend developer). 
+The project aims to showcase our skills and expertise in web development by creating an interactive and user-friendly learning platform.
 
 # Features
-User Authentication: Users can create accounts, log in, and manage their profiles.
-Course Catalog: Users can browse through a wide range of available courses.
-Enrollment: Users can enroll in courses of their choice.
-Progress Tracking: The platform tracks and displays the user's progress in each enrolled course.
-
-Interactive Learning Materials: Courses include various learning materials such as videos, quizzes, and assignments.
-Discussion Forum: Users can participate in course-specific discussion forums to engage with fellow learners and instructors.
-Certificates: Upon successful completion of a course, users receive a downloadable certificate of achievement.
+- User Authentication: Users can create accounts, log in, and manage their profiles.
+- Course Catalog: Users can browse through a wide range of available courses.
+- Enrollment: Users can enroll in courses of their choice.
+- Progress Tracking: The platform tracks and displays the user's progress in each enrolled course.
+- Interactive Learning Materials: Courses include various learning materials such as videos, quizzes, and assignments.
+- Discussion Forum: Users can participate in course-specific discussion forums to engage with fellow learners and instructors.
+- Certificates: Upon successful completion of a course, users receive a downloadable certificate of achievement.
 
 # Technologies Used
 - Frontend: HTML, CSS, JavaScript
